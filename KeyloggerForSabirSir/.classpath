@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/@@@Pora-shuna/3-1/Operating System and System Programming_335+336/jnativehook-2.1.0 (1)/jnativehook/jar/jnativehook-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
